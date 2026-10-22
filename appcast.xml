@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Aurex Updates</title><link>https://github.com/jezaedition/aurex-releases</link><description>Aurex macOS updates</description><language>en</language><item><title>Aurex 1.2.0</title><sparkle:version>12</sparkle:version><sparkle:shortVersionString>1.2.0</sparkle:shortVersionString><sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion><description><![CDATA[Chrome playback control and artwork, native drag shelf, Liquid Glass and automatic update checks.]]></description><enclosure url="https://raw.githubusercontent.com/jezaedition/aurex-releases/main/Aurex-1.2.0.zip" type="application/octet-stream" sparkle:edSignature="EjjvNCytUqmIR+IaDBCY6fUENGZUptUXd2gK3Aj5Ce1VZ5gnYdBdJCol2nQFBimB99JjQn9Fkhk87/jZqS6lAw==" length="2096466"></enclosure></item></channel></rss><!-- sparkle-signatures:
+edSignature: i+h3U7jEW9GBHuYxFfbYmcjS7uZu4pZDOxPlYGakqtkXtiPVuW+TAvsSgIKv9/Impq9os1Brh4kxDYVyWbf2Ag==
+length: 1168
+-->
