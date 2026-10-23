@@ -1,6 +1,6 @@
-# Aurex 1.6.0 — Universal Public Preview
+# Aurex 1.6.1 — Universal Public Preview
 
-[Download Aurex for Mac](https://github.com/jezaedition/aurex-releases/raw/refs/heads/main/Aurex-1.6.0-Mac.zip)
+[Download Aurex for Mac](https://github.com/jezaedition/aurex-releases/raw/refs/heads/main/Aurex-1.6.1-Mac.zip)
 
 For Mac mini, Mac Studio, MacBook and iMac running macOS 14.2 or later. Includes Intel x86_64 and Apple silicon arm64 builds. Live tested on the developer's current Apple silicon Mac; not every Mac/OS combination.
 
